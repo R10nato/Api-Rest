@@ -8,5 +8,7 @@
  Alterei o settings.py - Coloquei meu app 'hospital' e mudei para pt-br
 
  criei um template com um index.html como home
- 
+
+ criei um form.html em templates dentro do app hospital
+
 
