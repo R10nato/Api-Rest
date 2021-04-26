@@ -7,3 +7,6 @@
  test pelo sie
  Alterei o settings.py - Coloquei meu app 'hospital' e mudei para pt-br
 
+ criei um template com um index.html como home
+ 
+
