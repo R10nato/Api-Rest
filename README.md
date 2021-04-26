@@ -15,3 +15,11 @@ trabalharemos agora com banco de dados Sqlite e com o formulário interligado as
 
 app/models.py - No arquivo models do Django vamos realizar a criação das colunas do banco de dados:
 
+antes instalar python -m pip install Pillow
+
+Posteriormente rodaremos o seguinte comando no terminal: python manage.py makemigrations
+python manage.py migrate
+
+Migrations for 'hospital':
+  hospital\migrations\0001_initial.py
+    - Create model Paciente
