@@ -5,4 +5,4 @@ from hospital.models import Paciente
 class PacienteSerializer(serializers.ModelSerializer):
     class Meta:
         model = Paciente
-        filds = ['id', 'nome','telefone', 'cpf', 'foto', 'email']
+        fields = ['id', 'nome','telefone', 'cpf', 'foto', 'email']
