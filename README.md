@@ -23,3 +23,5 @@ python manage.py migrate
 Migrations for 'hospital':
   hospital\migrations\0001_initial.py
     - Create model Paciente
+
+depois criar um supur usuario com python manage.py createsuperuser

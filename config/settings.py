@@ -106,7 +106,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'pt-br'
 
-TIME_ZONE = 'Amirica/Manaus'
+TIME_ZONE = 'America/Manaus'
 
 USE_I18N = True
 
