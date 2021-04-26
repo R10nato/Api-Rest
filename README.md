@@ -11,4 +11,7 @@
 
  criei um form.html em templates dentro do app hospital
 
+trabalharemos agora com banco de dados Sqlite e com o formulário interligado as colunas do banco.
+
+app/models.py - No arquivo models do Django vamos realizar a criação das colunas do banco de dados:
 
