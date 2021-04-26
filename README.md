@@ -25,3 +25,5 @@ Migrations for 'hospital':
     - Create model Paciente
 
 depois criar um supur usuario com python manage.py createsuperuser
+instalando pip install djangorestframework
+
