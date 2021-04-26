@@ -27,3 +27,4 @@ Migrations for 'hospital':
 depois criar um supur usuario com python manage.py createsuperuser
 instalando pip install djangorestframework
 
+passando o app 'rest_framework',
