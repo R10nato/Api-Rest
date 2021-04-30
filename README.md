@@ -2,7 +2,7 @@
 
  Criando uma Api Rest com Django
 
- Foi desenvolvida um api com funcionalides de CRUD de pacientes de um hospital
+ Foi desenvolvida umA api com funcionalides de CRUD de pacientes de um hospital
  
  Principais funções:
  Cadastro.
